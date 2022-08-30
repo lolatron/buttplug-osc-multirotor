@@ -44,4 +44,4 @@ OPTIONS:
 * OSC receiver
 * Control multiple devices
 * Control a single devices' multiple motors
-* [Build for Windows 10](https://github.com/AlexanderPavlenko/buttplug-osc/releases/latest/download/buttplug-osc.exe)
+* [Build for Windows 10](https://github.com/lolatron/buttplug-osc-multirotor/releases)
