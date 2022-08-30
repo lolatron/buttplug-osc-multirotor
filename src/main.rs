@@ -239,7 +239,7 @@ fn validate_osc_message(message: osc::Message) -> Option<CommandBroadcast> {
                                             (*x).into()
                                         }
                                         _ => {
-                                            return invalid(&format!("invalid argument value: {:?}", message_args[1]));
+                                            return invalid(&format!("invalid argument value: {:?}", message_args[0]));
                                         }
                                     };
 
